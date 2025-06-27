@@ -1,3 +1,5 @@
+'use client'
+
 import Form from "next/form";
 import SearchFormReset from "@/components/SearchFormReset";
 import { Button } from "@/components/ui/button"
